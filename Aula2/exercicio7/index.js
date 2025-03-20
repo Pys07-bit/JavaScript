@@ -4,4 +4,4 @@ var n3=Number(prompt("Digite a terceira nota"));
 
 media=(n1+n2+n3)/3;
 
-document.write("A media eh: "+media);
+document.write("A media das notas eh: "+media);
